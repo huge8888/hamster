@@ -1,0 +1,2 @@
+# hamster
+extension auto click
